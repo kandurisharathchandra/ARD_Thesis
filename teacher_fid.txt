@@ -1,0 +1,14 @@
+======================================================================
+Teacher Model FID Evaluation Results
+======================================================================
+
+Checkpoint: results/003/checkpoints/ckpt_step0310000_ep0794.pt
+Model: DiT-S/2
+Number of samples: 5000
+CFG scale: 1.5
+Diffusion steps: 1000
+Noise schedule: cosine
+Prediction type: v
+
+FID Score: 13.23
+======================================================================
